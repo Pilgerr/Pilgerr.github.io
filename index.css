@@ -6,7 +6,8 @@
 }
 
 :root {
-    --color-primary: #263D63;
+    /* --color-primary: #263d63; */
+    --color-primary: #263d63ef;
     --color-secondary: #9db2d4;
     --color-tertiary: #328AF1;
     --color-quaternary: #30c5eb;
