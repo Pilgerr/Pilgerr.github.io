@@ -135,7 +135,7 @@ h2 {
 }
 
 .card {
-    box-shadow: 10px 10px 350px -100px var(--color-black);
+    /* box-shadow: 10px 10px 350px -100px var(--color-black); */
     background: #00000018;
     border-radius: 1rem;
     max-width: 17rem;
