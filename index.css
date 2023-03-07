@@ -124,7 +124,7 @@ h2 {
 }
 
 .projects-section {
-    padding-bottom: 4rem;
+    padding-bottom: 18rem;
 }
 
 .cards {
@@ -132,7 +132,7 @@ h2 {
     flex-direction: column;
     gap: 1.25rem;
     margin-top: 8rem;
-    margin-bottom: 4rem;
+    margin-bottom: 16rem;
 }
 
 .card {
