@@ -144,10 +144,7 @@ h2 {
     padding: 2rem 2rem 0 2rem;
     overflow: hidden;
     backdrop-filter: blur(5px);
-}
-
-.card:nth-child(2n) {
-    align-self: end;
+    align-self: center;
 }
 
 .card strong {
@@ -186,8 +183,8 @@ footer nav {
 }
 
 footer img {
-    width: 16rem;
-    height: 16rem;
+    width: 12rem;
+    height: 12rem;
 }
 
 /* UTILITÁRIOS */
